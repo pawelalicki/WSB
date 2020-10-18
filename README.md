@@ -1,1 +1,3 @@
-# wsb
+# WSB
+
+laboratories and excercises
